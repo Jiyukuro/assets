@@ -1,4 +1,0 @@
-collections:
-  files:
-    output: true
-    permalink: /files/:path/
